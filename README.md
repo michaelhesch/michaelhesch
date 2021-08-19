@@ -3,7 +3,7 @@
 ### My name is Michael and I'm an aspiring full-stack software developer.  My projects and other interesting things I've been working on can be found in my pinned repos below.
 
 - 💼 About me: My professional background is in finacial services and I wrote my first "Hello, World" in January 2020!
-- ⚡ My portfolio page with my CV and more information on my work [can be found here.](#)
+- ⚡ My portfolio page with more information on my work [can be found here.](#)
 - ⛏️ I’m currently working on my third [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/) milestone project.
 - 🌱 I’m currently learning Python, Flask and MongoDB! Next up: the Django framework and Amazon AWS.
 - 📫 How to reach me: please [reach out on LinkedIn.](https://www.linkedin.com/in/michaelhesch/) I would love to connect!
