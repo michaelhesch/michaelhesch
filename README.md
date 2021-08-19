@@ -2,7 +2,7 @@
 
 ### My name is Michael and I'm an aspiring full-stack software developer.  My projects and other interesting things I've been working on can be found in my pinned repos below.
 
-- 💼 My background is in finacial services and I wrote my first "Hello, World" in January 2020!
+- 💼 About me: My professional background is in finacial services and I wrote my first "Hello, World" in January 2020!
 - ⚡ My portfolio page with my CV and more information on my work [can be found here.](#)
 - ⛏️ I’m currently working on my third [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/) milestone project.
 - 🌱 I’m currently learning Python, Flask and MongoDB! Next up: the Django framework and Amazon AWS.
@@ -23,7 +23,7 @@ Brief Description: A website using JavaScript and the Mapbox / Leaflet APIs to p
 
 Technologies Used: HTML5, CSS3, JavaScript, Mapbox API, Leaflet API, Boostrap, FontAwesome.  Deployed with GitHub pages.
 
-#### **Milestone Project 3 [Work in Progress] - ""** [View Repo](#) | [View Live Site](#)
+#### **Milestone Project 3 [Work in Progress]**
 
 Brief Description: A data-centric project showcasing Python, the Flask mini-framework and database operations.
 
@@ -33,10 +33,13 @@ Technologies Used: HTML5, CSS3, Python, Flask, mongoDB. Deployed with Heroku.
 
 #### **Python, Flask & MongoDB mini-project - "Task Manager"** [View Repo](https://github.com/michaelhesch/task-manager) | [View Live Site](https://flask-task-manager-mh.herokuapp.com/)
 
-Brief Description: A website showcasing Python, Flask and mongoDB.  Allows users to create an account, add and manage tasks on a to-do list to demonstrate CRUD operations.  
+Brief Description: A website to manage tasks built utilizing Python, Flask and mongoDB to demonstrate CRUD operations.  Allows users to create an account, add and manage tasks on a to-do list as well as an Admin view to manage tasks and categories.  
 This site was built as part of the Code Institute curriculum and I am continuing to improve upon it for practice.
 
-Note: This site is deployed via Heroku and will take longer to render on initial load.
+#### **Python & Flask mini-project - "Thorin & Company"** [View Repo](https://github.com/michaelhesch/thorin-flask-app) | [View Live Site](https://thorin-flask-app-mh.herokuapp.com/)
+
+Brief Description: A website showcasing Thorin & his company of Dwarves.  Built with Python and Flask, utilizing a free [Startbootstrap template](https://startbootstrap.com/theme/clean-blog) for the site layout and styling.
+This site was built as part of the Code Institute curriculum and I am continuing to improve upon it for practice.
 
 <!--
 **michaelhesch/michaelhesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
