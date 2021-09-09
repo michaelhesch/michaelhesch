@@ -2,8 +2,7 @@
 
 ### My name is Michael and I'm an aspiring full-stack software developer.  My projects and other interesting things I've been working on can be found in my pinned repos below.
 
-- 💼 About me: My professional background is in finacial services and I wrote my first "Hello, World" in January 2020!
-- ⚡ My portfolio page with more information on my work [can be found here.](#)
+- 💼 About me: My professional background is in a global finacial services organization and I wrote my first "Hello, World" in January 2020!
 - ⛏️ I’m currently working on my third [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/) milestone project.
 - 🌱 I’m currently learning Python, Flask and MongoDB! Next up: the Django framework and Amazon AWS.
 - 📫 How to reach me: please [reach out on LinkedIn.](https://www.linkedin.com/in/michaelhesch/) I would love to connect!
@@ -23,11 +22,11 @@ Brief Description: A website using JavaScript and the Mapbox / Leaflet APIs to p
 
 Technologies Used: HTML5, CSS3, JavaScript, Mapbox API, Leaflet API, Boostrap, FontAwesome.  Deployed with GitHub pages.
 
-#### **Milestone Project 3 [Work in Progress]**
+#### **Milestone Project 3 [Work in Progress]** [View Repo](https://github.com/michaelhesch/ci-ms-3)
 
-Brief Description: A data-centric project showcasing Python, the Flask mini-framework and database operations.
+Brief Description: A full stack web application for sharing holiday photos, showcasing technologies including Python, the Flask micro-framework and database operations.
 
-Technologies Used: HTML5, CSS3, Python, Flask, mongoDB. Deployed with Heroku.
+Technologies Used: HTML5, CSS3, Python, Flask, Cloudinary, mongoDB. Deployed with Heroku.
 
 ### Other Projects - Quick Links
 
@@ -43,6 +42,8 @@ This site was built as part of the Code Institute curriculum and I am continuing
 
 <!--
 **michaelhesch/michaelhesch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- ⚡ My portfolio page with more information on my work [can be found here.](#)
 
 Here are some ideas to get you started:
 
