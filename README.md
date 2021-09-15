@@ -3,6 +3,7 @@
 ### My name is Michael and I'm an aspiring full-stack software developer.  My projects and other interesting things I've been working on can be found in my pinned repos below.
 
 - 💼 About me: My professional background is in a global finacial services organization and I wrote my first "Hello, World" in January 2020!
+- :man_student:	I have a Bachelor's degree in Economics from Elon University, and I am currently completing a dual-qualification full-stack development course from Code Institute and the University College Dublin Professional Academy.
 - ⛏️ I’m currently working on my third [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/) milestone project.
 - 🌱 I’m currently learning Python, Flask and MongoDB! Next up: the Django framework and Amazon AWS.
 - 📫 How to reach me: please [reach out on LinkedIn.](https://www.linkedin.com/in/michaelhesch/) I would love to connect!
