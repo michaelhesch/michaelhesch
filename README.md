@@ -23,7 +23,7 @@ Brief Description: A website using JavaScript and the Mapbox / Leaflet APIs to p
 
 Technologies Used: HTML5, CSS3, JavaScript, Mapbox API, Leaflet API, Boostrap, FontAwesome.  Deployed with GitHub pages.
 
-#### **Milestone Project 3 [Work in Progress]** [View Repo](https://github.com/michaelhesch/ci-ms-3) | [View Live Site](https://ci-ms-3-mh.herokuapp.com/)
+#### **Milestone Project 3 - "Out of Office"** [View Repo](https://github.com/michaelhesch/ci-ms-3) | [View Live Site](https://ci-ms-3-mh.herokuapp.com/)
 
 Brief Description: A full stack web application for sharing holiday photos, showcasing technologies including Python, the Flask micro-framework and database operations.
 
