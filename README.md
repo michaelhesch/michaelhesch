@@ -31,7 +31,7 @@ Technologies Used: HTML5, CSS3, Python, Flask, Cloudinary, MongoDB. Deployed wit
 
 ### Other Projects - Quick Links
 
-#### **Django & Stripe mini-project - "Boutique Ado"** [View Repo](#) | [View Live Site](#)
+#### **Django & Stripe mini-project - "Boutique Ado"** [View Repo](https://github.com/michaelhesch/boutique-ado) | [View Live Site](#)
 
 Brief Description: A full-stack web application providing a functional web store for a fictional boutique.  Built with Django and the Stripe payments API.
 
