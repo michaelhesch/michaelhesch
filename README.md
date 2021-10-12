@@ -4,8 +4,8 @@
 
 - 💼 About me: My professional background is in a global finacial services organization and I wrote my first "Hello, World" in January 2020!
 - :man_student:	I have a Bachelor's degree in Economics from Elon University, and I am currently completing a dual-qualification full-stack development course from Code Institute and the University College Dublin Professional Academy.
-- ⛏️ I’m currently working on my third [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/) milestone project.
-- 🌱 I’m currently learning Python, Flask and MongoDB! Next up: the Django framework and Amazon AWS.
+- ⛏️ I’m currently preparing for my final [Code Institute](https://codeinstitute.net/full-stack-software-development-diploma/) milestone project.
+- 🌱 I’m currently learning Django! Next up: the Django framework and Amazon AWS.
 - 📫 How to reach me: please [reach out on LinkedIn.](https://www.linkedin.com/in/michaelhesch/) I would love to connect!
 - 😄 Pronouns: he / him
 
@@ -27,7 +27,7 @@ Technologies Used: HTML5, CSS3, JavaScript, Mapbox API, Leaflet API, Boostrap, F
 
 Brief Description: A full stack web application for sharing holiday photos, showcasing technologies including Python, the Flask micro-framework and database operations.
 
-Technologies Used: HTML5, CSS3, Python, Flask, Cloudinary, mongoDB. Deployed with Heroku.
+Technologies Used: HTML5, CSS3, Python, Flask, Cloudinary, MongoDB. Deployed with Heroku.
 
 ### Other Projects - Quick Links
 
