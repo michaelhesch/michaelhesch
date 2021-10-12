@@ -31,14 +31,18 @@ Technologies Used: HTML5, CSS3, Python, Flask, Cloudinary, MongoDB. Deployed wit
 
 ### Other Projects - Quick Links
 
+#### **Django & Stripe mini-project - "Boutique Ado"** [View Repo](#) | [View Live Site](#)
+
+Brief Description: A full-stack web application providing a functional web store for a fictional boutique.  Built with Django and the Stripe payments API.
+
 #### **Python, Flask & MongoDB mini-project - "Task Manager"** [View Repo](https://github.com/michaelhesch/task-manager) | [View Live Site](https://flask-task-manager-mh.herokuapp.com/)
 
-Brief Description: A website to manage tasks built utilizing Python, Flask and mongoDB to demonstrate CRUD operations.  Allows users to create an account, add and manage tasks on a to-do list as well as an Admin view to manage tasks and categories.  
+Brief Description: A website to manage tasks built utilizing Python, Flask and mongoDB to demonstrate CRUD operations.  Allows users to create an account, add and manage tasks on a to-do list as well as an Admin view to manage tasks and categories.  Deployed with Heroku.
 This site was built as part of the Code Institute curriculum and I am continuing to improve upon it for practice.
 
 #### **Python & Flask mini-project - "Thorin & Company"** [View Repo](https://github.com/michaelhesch/thorin-flask-app) | [View Live Site](https://thorin-flask-app-mh.herokuapp.com/)
 
-Brief Description: A website showcasing Thorin & his company of Dwarves.  Built with Python and Flask, utilizing a free [Startbootstrap template](https://startbootstrap.com/theme/clean-blog) for the site layout and styling.
+Brief Description: A website showcasing Thorin & his company of Dwarves.  Built with Python and Flask, utilizing a free [Startbootstrap template](https://startbootstrap.com/theme/clean-blog) for the site layout and styling.  Deployed with Heroku.
 This site was built as part of the Code Institute curriculum and I am continuing to improve upon it for practice.
 
 <!--
