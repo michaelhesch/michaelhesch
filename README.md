@@ -29,7 +29,7 @@ Brief Description: A full stack web application for sharing holiday photos, show
 
 Technologies Used: HTML5, CSS3, Python, Flask, Cloudinary, MongoDB. Deployed with Heroku.
 
-#### **Milestone Project $ - "TBD" - In Progress ** [View Repo](https://github.com/michaelhesch/ci-ms-4) | [View Live Site](#)
+#### **Milestone Project 4 - "TBD" - In Progress ** [View Repo](https://github.com/michaelhesch/ci-ms-4) | [View Live Site](#)
 
 Brief Description: A full stack web application built with Django.  This is a work in progress.
 
