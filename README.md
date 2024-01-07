@@ -14,21 +14,21 @@ Brief Description: A website using JavaScript and the Mapbox / Leaflet APIs to p
 
 Technologies Used: HTML5, CSS3, JavaScript, Mapbox API, Leaflet API, Boostrap, FontAwesome.  Deployed with GitHub pages.
 
-#### **Milestone Project 3 - "Out of Office"** [View Repo](https://github.com/michaelhesch/ci-ms-3) | [View Live Site](https://ci-ms-3-mh.herokuapp.com/)
+#### **Milestone Project 3 - "Out of Office"** [View Repo](https://github.com/michaelhesch/ci-ms-3)
 
 Brief Description: A full stack web application for sharing holiday photos, showcasing technologies including Python, the Flask micro-framework and database operations.
 
-Technologies Used: HTML5, CSS3, Python, Flask, Cloudinary, MongoDB. Deployed with Heroku.
+Technologies Used: HTML5, CSS3, Python, Flask, Cloudinary, MongoDB.
 
-#### **Milestone Project 4 - "Liffey"** [View Repo](https://github.com/michaelhesch/ci-ms-4) | [View Live Site](#)
+#### **Milestone Project 4 - "Liffey"** [View Repo](https://github.com/michaelhesch/ci-ms-4) 
 
 Brief Description: A full stack web application that provides a first and third party selling platform for computer parts, built with Django.
 
-Technologies Used: HTML5, CSS3, Python, Django, PostrgeSQL, Amazon AWS S3. Deployed with Heroku.
+Technologies Used: HTML5, CSS3, Python, Django, PostrgeSQL, Amazon AWS S3.
 
 ### Other Projects - Quick Links
 
-#### **Django & Stripe mini-project - "Boutique Ado"** [View Repo](https://github.com/michaelhesch/boutique-ado) | [View Live Site](https://mh-boutique-ado.herokuapp.com/)
+#### **Django & Stripe mini-project - "Boutique Ado"** [View Repo](https://github.com/michaelhesch/boutique-ado)
 
 Brief Description: A full-stack web application providing a functional web store for a fictional boutique called Boutique Ado.  Built with Bootstrap, Django, SQL/Postgres and the Stripe payments API.  Deployed with Heroku and Amazon AWS S3.  This site was built as part of the Code Institute curriculum.
 
